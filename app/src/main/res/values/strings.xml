@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Automata Converter</string>
+    <string name="action_settings">Settings</string>
+    <string name="more">ADD MORE</string>
+    <string name="states">Define States</string>
+    <string name="title_activity_start_state">Choose Start state</string>
+    <string name="title_activity_end_states">Choose end states</string>
+    <string name="title_activity_symbols">Define symbols</string>
+    <string name="title_activity_transitions">Define Transitions</string>
+    <string name="title_activity_result">Result</string>
+</resources>
