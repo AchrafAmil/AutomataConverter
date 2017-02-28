@@ -12,19 +12,19 @@ The user inputs the NFA in few steps :
 <br />
 
 specify the states : <br />
-![alt screen1](http://img11.hostingpics.net/thumbs/mini_910332201702280122091.png)
+![alt screen1](http://img11.hostingpics.net/pics/841560201702280122091.png)
 <br /><br />
 press next, choose the start and end states then press next again.
 <br /><br />
 name the symbols (alphabet) :<br />
-![alt screen1](http://img11.hostingpics.net/thumbs/mini_64380520170228012304.png)
+![alt screen1](http://img11.hostingpics.net/pics/98170420170228012304.png)
 <br /><br />
 now input all the transitions your NFA has (from, symbol, to):<br />
-![alt screen1](http://img11.hostingpics.net/thumbs/mini_74291820170228012351.png)
+![alt screen1](http://img11.hostingpics.net/pics/19084520170228012351.png)
 <br /><br />
 
 press next, and... Ta-dah! now you have a DFA equivalent to your NFA.<br />
-![alt screen1](http://img11.hostingpics.net/thumbs/mini_24683020170228012403.png)
+![alt screen1](http://img11.hostingpics.net/pics/37274920170228012403.png)
 
 <br /><br /><br />
 Enjoy it responsably.
